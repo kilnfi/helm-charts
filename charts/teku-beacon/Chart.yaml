@@ -4,7 +4,7 @@ description: A Helm chart for Teku Ethereum Beacon Chain
 sources:
   - https://github.com/ConsenSys/teku
 type: application
-version: 0.3.0
+version: 0.3.1
 appVersion: "22.5.0-jdk17"
 maintainers:
   - name: kiln
